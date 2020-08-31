@@ -63,3 +63,5 @@
 [mongodb]: https://www.mongodb.com
 [git]: https://git-scm.com
 [terminal]: https://github.com/microsoft/terminal
+[aws]: https://aws.amazon.com
+[azure]: https://azure.microsoft.com
