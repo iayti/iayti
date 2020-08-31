@@ -32,7 +32,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 [<img align="left" alt="AWS" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
 [<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />][azure]
-[<img align="left" alt="Bootstrap" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" />][bootstrap]
 [<img align="left" alt="Docker" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />][kubernetes]
 [<img align="left" alt="Linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />][linux]
@@ -76,7 +75,6 @@
 [terminal]: https://github.com/microsoft/terminal
 [aws]: https://aws.amazon.com
 [azure]: https://azure.microsoft.com
-[bootstrap]: https://getbootstrap.com
 [csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [docker]: https://www.docker.com/
 [kubernetes]: https://kubernetes.io/
