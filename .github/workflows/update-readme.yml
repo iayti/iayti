@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: GitHub - Activity - Readme
 on:
   schedule:
     # Runs every hour
