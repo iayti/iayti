@@ -45,22 +45,14 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#224](https://github.com//jasontaylordev/CleanArchitecture/issues/224) in [jasontaylordev/CleanArchitecture](https://github.com//jasontaylordev/CleanArchitecture)
-2. 💪 Opened PR [#224](https://github.com//jasontaylordev/CleanArchitecture/pull/224) in [jasontaylordev/CleanArchitecture](https://github.com//jasontaylordev/CleanArchitecture)
-<!--END_SECTION:activity-->
+### Recent Github Activity
+  <!--START_SECTION:activity-->
 
-</details>
+---
 
-<details>
-  <summary>:zap: Github Stats</summary>
+### Github Stats
+<img align="left" alt="iayti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iayti&show_icons=true&hide_border=true&theme=radical" />
 
-  <img align="left" alt="iayti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iayti&show_icons=true&hide_border=true&theme=radical" />
-
-</details>
 
 [clean]: https://github.com/iayti/CleanArchitecture
 [website]: https://ilkerayti.com
