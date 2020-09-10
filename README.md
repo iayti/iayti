@@ -47,11 +47,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com//jasontaylordev/CleanArchitecture/issues/24) in [jasontaylordev/CleanArchitecture](https://github.com//jasontaylordev/CleanArchitecture)
-2. 🎉 Merged PR [#2](https://github.com//ahmetsaiderdem/ListBox/pull/2) in [ahmetsaiderdem/ListBox](https://github.com//ahmetsaiderdem/ListBox)
-3. 🗣 Commented on [#2](https://github.com//ahmetsaiderdem/ListBox/issues/2) in [ahmetsaiderdem/ListBox](https://github.com//ahmetsaiderdem/ListBox)
-4. 💪 Opened PR [#2](https://github.com//ahmetsaiderdem/ListBox/pull/2) in [ahmetsaiderdem/ListBox](https://github.com//ahmetsaiderdem/ListBox)
-5. 🎉 Merged PR [#1](https://github.com//ahmetsaiderdem/ListBox/pull/1) in [ahmetsaiderdem/ListBox](https://github.com//ahmetsaiderdem/ListBox)
+1. ❗️ Opened issue [#233](https://github.com//jasontaylordev/CleanArchitecture/issues/233) in [jasontaylordev/CleanArchitecture](https://github.com//jasontaylordev/CleanArchitecture)
+2. 🗣 Commented on [#24](https://github.com//jasontaylordev/CleanArchitecture/issues/24) in [jasontaylordev/CleanArchitecture](https://github.com//jasontaylordev/CleanArchitecture)
+3. 🎉 Merged PR [#2](https://github.com//ahmetsaiderdem/ListBox/pull/2) in [ahmetsaiderdem/ListBox](https://github.com//ahmetsaiderdem/ListBox)
+4. 🗣 Commented on [#2](https://github.com//ahmetsaiderdem/ListBox/issues/2) in [ahmetsaiderdem/ListBox](https://github.com//ahmetsaiderdem/ListBox)
+5. 💪 Opened PR [#2](https://github.com//ahmetsaiderdem/ListBox/pull/2) in [ahmetsaiderdem/ListBox](https://github.com//ahmetsaiderdem/ListBox)
 <!--END_SECTION:activity-->
 
 ---
