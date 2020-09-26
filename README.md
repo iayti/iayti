@@ -64,6 +64,7 @@
 [clean]: https://github.com/iayti/CleanArchitecture
 [website]: https://ilkerayti.com
 [linkedin]: https://www.linkedin.com/in/ilkerayti
+[medium]: https://medium.com/@ilkerayti
 [vs]: https://visualstudio.microsoft.com/
 [.net]: https://github.com/dotnet
 [github]: https://github.com/iayti/iayti
