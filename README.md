@@ -47,11 +47,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//iayti/Matech.Sample.Template/pull/1) in [iayti/Matech.Sample.Template](https://github.com//iayti/Matech.Sample.Template)
-2. 💪 Opened PR [#1](https://github.com//iayti/Matech.Sample.Template/pull/1) in [iayti/Matech.Sample.Template](https://github.com//iayti/Matech.Sample.Template)
-3. 🎉 Merged PR [#1](https://github.com//iayti/CleanArchitecture/pull/1) in [iayti/CleanArchitecture](https://github.com//iayti/CleanArchitecture)
-4. 💪 Opened PR [#1](https://github.com//iayti/CleanArchitecture/pull/1) in [iayti/CleanArchitecture](https://github.com//iayti/CleanArchitecture)
-5. ❗️ Opened issue [#233](https://github.com//jasontaylordev/CleanArchitecture/issues/233) in [jasontaylordev/CleanArchitecture](https://github.com//jasontaylordev/CleanArchitecture)
+1. 🎉 Merged PR [#1](https://github.com/iayti/Matech.Sample.Template/pull/1) in [iayti/Matech.Sample.Template](https://github.com/iayti/Matech.Sample.Template)
+2. 💪 Opened PR [#1](https://github.com/iayti/Matech.Sample.Template/pull/1) in [iayti/Matech.Sample.Template](https://github.com/iayti/Matech.Sample.Template)
+3. 🎉 Merged PR [#1](https://github.com/iayti/CleanArchitecture/pull/1) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+4. 💪 Opened PR [#1](https://github.com/iayti/CleanArchitecture/pull/1) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+5. ❗️ Opened issue [#233](https://github.com/jasontaylordev/CleanArchitecture/issues/233) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
 <!--END_SECTION:activity-->
 
 ---
