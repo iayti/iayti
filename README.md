@@ -17,6 +17,7 @@
 [<img align="left" alt="ilkerayti.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ilkerayti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ilkerayti | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/medium.svg" />][medium]
+[<img align="left" alt="ilkerayti | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/nuget.svg" />][nuget]
 
 <br />
 
@@ -65,6 +66,7 @@
 [website]: https://ilkerayti.com
 [linkedin]: https://www.linkedin.com/in/ilkerayti
 [medium]: https://medium.com/@ilkerayti
+[nuget]: https://www.nuget.org/profiles/ilkerayti
 [vs]: https://visualstudio.microsoft.com/
 [.net]: https://github.com/dotnet
 [github]: https://github.com/iayti/iayti
