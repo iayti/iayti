@@ -49,11 +49,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#10](https://github.com/iayti/CleanArchitecture/issues/10) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-2. ❗️ Closed issue [#11](https://github.com/iayti/CleanArchitecture/issues/11) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-3. ❗️ Closed issue [#12](https://github.com/iayti/CleanArchitecture/issues/12) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-4. ❗️ Closed issue [#13](https://github.com/iayti/CleanArchitecture/issues/13) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-5. ❗️ Closed issue [#14](https://github.com/iayti/CleanArchitecture/issues/14) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+1. ❗️ Closed issue [#16](https://github.com/iayti/CleanArchitecture/issues/16) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+2. ❗️ Reopened issue [#16](https://github.com/iayti/CleanArchitecture/issues/16) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+3. ❗️ Closed issue [#10](https://github.com/iayti/CleanArchitecture/issues/10) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+4. ❗️ Closed issue [#11](https://github.com/iayti/CleanArchitecture/issues/11) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+5. ❗️ Closed issue [#12](https://github.com/iayti/CleanArchitecture/issues/12) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 <!--END_SECTION:activity-->
 
 ---
