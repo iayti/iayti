@@ -18,6 +18,7 @@
 [<img align="left" alt="ilkerayti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ilkerayti | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/medium.svg" />][medium]
 [<img align="left" alt="ilkerayti | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/nuget.svg" />][nuget]
+[<img align="left" alt="ilkerayti | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -67,6 +68,7 @@
 [linkedin]: https://www.linkedin.com/in/ilkerayti
 [medium]: https://medium.com/@ilkerayti
 [nuget]: https://www.nuget.org/profiles/ilkerayti
+[twitter]: https://twitter.com/ilkerayti
 [vs]: https://visualstudio.microsoft.com/
 [.net]: https://github.com/dotnet
 [github]: https://github.com/iayti/iayti
