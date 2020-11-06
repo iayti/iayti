@@ -50,11 +50,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/iayti/CleanArchitecture/issues/20) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-2. 🗣 Commented on [#255](https://github.com/jasontaylordev/CleanArchitecture/issues/255) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
-3. ❗️ Opened issue [#19](https://github.com/iayti/CleanArchitecture/issues/19) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-4. ❗️ Opened issue [#18](https://github.com/iayti/CleanArchitecture/issues/18) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-5. 🗣 Commented on [#17](https://github.com/iayti/CleanArchitecture/issues/17) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+1. ❗️ Opened issue [#21](https://github.com/iayti/CleanArchitecture/issues/21) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+2. ❗️ Closed issue [#20](https://github.com/iayti/CleanArchitecture/issues/20) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+3. ❗️ Opened issue [#20](https://github.com/iayti/CleanArchitecture/issues/20) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+4. 🗣 Commented on [#255](https://github.com/jasontaylordev/CleanArchitecture/issues/255) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+5. ❗️ Opened issue [#19](https://github.com/iayti/CleanArchitecture/issues/19) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 <!--END_SECTION:activity-->
 
 ---
