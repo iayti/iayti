@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=ilkerayti.com&style=for-the-badge&url=https%3A%2F%2Filkerayti.com)](https://ilkerayti.com)
 
+[![Website](https://img.shields.io/website?label=blog.ilkerayti.com&style=for-the-badge&url=https%3A%2F%2Filkerayti.com)](https://blog.ilkerayti.com)
+
 ## I'm a Husband, Father and Developer
 
 * 🔭 I’m currently working on a [.NET Core Clean Architecture Solution Template][clean]!
@@ -16,6 +18,7 @@
 
 [<img align="left" alt="ilkerayti.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ilkerayti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ilkerayti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />][hashnode]
 [<img align="left" alt="ilkerayti | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/medium.svg" />][medium]
 [<img align="left" alt="ilkerayti | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/nuget.svg" />][nuget]
 [<img align="left" alt="ilkerayti | Nuget" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/twitter.svg" />][twitter]
@@ -66,6 +69,7 @@
 [clean]: https://github.com/iayti/CleanArchitecture
 [website]: https://ilkerayti.com
 [linkedin]: https://www.linkedin.com/in/ilkerayti
+[hashnode]: https://hashnode.com/@ilkerayti
 [medium]: https://medium.com/@ilkerayti
 [nuget]: https://www.nuget.org/profiles/ilkerayti
 [twitter]: https://twitter.com/ilkerayti
