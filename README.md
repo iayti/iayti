@@ -11,7 +11,7 @@
   * ⚽ Kali Linux (I want to learn cybersecurity and try hack myself)
   * 🎯 Networking (Cisco CCNA maybe after CCNP I dont care the certifacates, i just want to learn. 😃)
   * 🏆 Scalable Microservice Architecture handle CQRS, response cache(Redis), RabbitMQ/Azure Service BUS, Elastic Log, Dapr/Ocelet(Api Gateaway... etc)
-* 🥅 2020 Goals: Contribute more to Open Source projects
+* 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
