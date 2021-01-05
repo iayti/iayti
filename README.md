@@ -28,7 +28,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt=".Net Platform" width="26px" src="https://avatars2.githubusercontent.com/u/9141961?s=200&v=4" />][.net]
-[<img align="left" alt="CSharp Platform" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" />][csharp]
+[<img align="left" alt="CSharp Platform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][csharp]
 [<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphQL]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
@@ -36,14 +36,14 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="AWS" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
 [<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />][azure]
-[<img align="left" alt="Docker" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" />][docker]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />][kubernetes]
-[<img align="left" alt="Linux" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" />][linux]
-[<img align="left" alt="Python" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />][python]
 [<img align="left" alt="RabbitMQ" width="26px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />][rabbit]
-[<img align="left" alt="Redis" width="26px" src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original-wordmark.svg" />][redis]
+[<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />][redis]
 [<img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" />][xamarin]
 
 <br />
