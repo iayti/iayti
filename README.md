@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Father and Developer
 
-* 🔭 I’m currently working on a [.NET Core Clean Architecture Solution Template][clean]!
+* 🔭 I’m currently working on a [.NET 5 Clean Architecture Solution Template][clean]!
 * 🌱 I can put learning first among my interests. Because of my curiosity, I add new research topics before I finish. Therefore the list goes on and on.
   * ⚽ Kali Linux (I want to learn cybersecurity and try hack myself)
   * 🎯 Networking (Cisco CCNA maybe after CCNP I dont care the certifacates, i just want to learn. 😃)
