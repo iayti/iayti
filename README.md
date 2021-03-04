@@ -8,9 +8,18 @@
 
 * 🔭 I’m currently working on a [.NET 5 Clean Architecture Solution Template][clean]!
 * 🌱 I can put learning first among my interests. Because of my curiosity, I add new research topics before I finish. Therefore the list goes on and on.
-  * ⚽ Kali Linux (I want to learn cybersecurity and try hack myself)
-  * 🎯 Networking (Cisco CCNA maybe after CCNP I dont care the certifacates, i just want to learn. 😃)
-  * 🏆 Scalable Microservice Architecture handle CQRS, response cache(Redis), RabbitMQ/Azure Service BUS, Elastic Log, Dapr/Ocelet(Api Gateaway... etc)
+  * 📡 I am eager to learn and try dapr in production level.
+      * 🌕 Service to Service Invocation (HTTP/gRPC)
+      * 🌖 State Management (RDBMS / NOSQL)
+      * 🌗 Publish and Subscribe(Azure Service Bus, AWS SQS/SNS - Kinesis, Apache Kafka, RabbitMQ, Redis)
+      * 🌘 Input and Output Bindings triggering application and invoking external resources
+      * 🌑 [Actors][actor] : Virtual Actor Pattern implementation for concurrency and better scalability
+      * 🌒 Observability distributed tracing using Zipkin API and Open Telemetry Collector 
+      * 🌓 Secrets Management Azure Key Vault/AWS Secret Manager or Dapr secrets API
+  * 🏆 Scalable distributed applications, Event Sourcing , CQRS, Event Driven Architecture  
+  * ⚽ Kali Linux (I want to learn cyber security and try hack myself)
+  * 🎯 Networking (Cisco CCNA maybe after CCNP I dont care the certificates, i just want to learn. 😃)
+  
 * 🥅 2021 Goals: Contribute more to Open Source projects
 
 
@@ -91,3 +100,5 @@
 [rabbit]: https://www.rabbitmq.com/
 [redis]: https://redis.io/
 [xamarin]: https://dotnet.microsoft.com/apps/xamarin
+
+[actor]: https://docs.dapr.io/developing-applications/building-blocks/actors/actors-overview/
