@@ -64,11 +64,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-2. ❌ Reopened PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-3. ❌ Closed PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-4. 💪 Opened PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-5. 🗣 Commented on [#26](https://github.com/iayti/CleanArchitecture/issues/26) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+1. 🎉 Merged PR [#1](https://github.com/iayti/Dapr.CleanArchitecture/pull/1) in [iayti/Dapr.CleanArchitecture](https://github.com/iayti/Dapr.CleanArchitecture)
+2. 💪 Opened PR [#1](https://github.com/iayti/Dapr.CleanArchitecture/pull/1) in [iayti/Dapr.CleanArchitecture](https://github.com/iayti/Dapr.CleanArchitecture)
+3. 🎉 Merged PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+4. ❌ Reopened PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+5. ❌ Closed PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 <!--END_SECTION:activity-->
 
 ---
