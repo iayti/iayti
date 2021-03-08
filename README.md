@@ -22,6 +22,8 @@
   
 * 🥅 2021 Goals: Contribute more to Open Source projects
 
+![Visitors since 08 Mar 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=iayti&repo=iayti&countColor=%237B1E7A)
+
 
 ### Connect with me:
 
