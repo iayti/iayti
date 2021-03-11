@@ -64,11 +64,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#631](https://github.com/dapr/dotnet-sdk/issues/631) in [dapr/dotnet-sdk](https://github.com/dapr/dotnet-sdk)
-2. 🎉 Merged PR [#1](https://github.com/iayti/Dapr.CleanArchitecture/pull/1) in [iayti/Dapr.CleanArchitecture](https://github.com/iayti/Dapr.CleanArchitecture)
-3. 💪 Opened PR [#1](https://github.com/iayti/Dapr.CleanArchitecture/pull/1) in [iayti/Dapr.CleanArchitecture](https://github.com/iayti/Dapr.CleanArchitecture)
-4. 🎉 Merged PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-5. ❌ Reopened PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+1. 🗣 Commented on [#745](https://github.com/dapr/components-contrib/issues/745) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
+2. ❗️ Opened issue [#631](https://github.com/dapr/dotnet-sdk/issues/631) in [dapr/dotnet-sdk](https://github.com/dapr/dotnet-sdk)
+3. 🎉 Merged PR [#1](https://github.com/iayti/Dapr.CleanArchitecture/pull/1) in [iayti/Dapr.CleanArchitecture](https://github.com/iayti/Dapr.CleanArchitecture)
+4. 💪 Opened PR [#1](https://github.com/iayti/Dapr.CleanArchitecture/pull/1) in [iayti/Dapr.CleanArchitecture](https://github.com/iayti/Dapr.CleanArchitecture)
+5. 🎉 Merged PR [#27](https://github.com/iayti/CleanArchitecture/pull/27) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 <!--END_SECTION:activity-->
 
 ---
