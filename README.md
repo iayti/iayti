@@ -64,11 +64,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/iayti/CleanArchitecture/pull/29) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-2. 💪 Opened PR [#29](https://github.com/iayti/CleanArchitecture/pull/29) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-3. 🗣 Commented on [#323](https://github.com/jasontaylordev/CleanArchitecture/issues/323) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
-4. 🗣 Commented on [#745](https://github.com/dapr/components-contrib/issues/745) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
-5. ❗️ Opened issue [#631](https://github.com/dapr/dotnet-sdk/issues/631) in [dapr/dotnet-sdk](https://github.com/dapr/dotnet-sdk)
+1. 🗣 Commented on [#323](https://github.com/jasontaylordev/CleanArchitecture/issues/323) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+2. 🎉 Merged PR [#29](https://github.com/iayti/CleanArchitecture/pull/29) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+3. 💪 Opened PR [#29](https://github.com/iayti/CleanArchitecture/pull/29) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+4. 🗣 Commented on [#323](https://github.com/jasontaylordev/CleanArchitecture/issues/323) in [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)
+5. 🗣 Commented on [#745](https://github.com/dapr/components-contrib/issues/745) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
 <!--END_SECTION:activity-->
 
 ---
