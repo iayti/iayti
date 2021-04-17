@@ -8,7 +8,7 @@
 
 * 🔭 I’m currently working on a [.NET 5 Clean Architecture Solution Template][clean]!
 * 🌱 I can put learning first among my interests. Because of my curiosity, I add new research topics before I finish. Therefore the list goes on and on.
-  * 📡 I am eager to learn and try dapr in production level.
+  * 📡 I am eager to try dapr in production level.
       * 🌕 Service to Service Invocation (HTTP/gRPC)
       * 🌖 State Management (RDBMS / NOSQL)
       * 🌗 Publish and Subscribe(Azure Service Bus, AWS SQS/SNS - Kinesis, Apache Kafka, RabbitMQ, Redis)
