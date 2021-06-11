@@ -64,11 +64,11 @@
 
 ### Recent Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/iayti/CleanArchitecture/issues/35) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-2. ❗️ Closed issue [#30](https://github.com/iayti/CleanArchitecture/issues/30) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-3. 🗣 Commented on [#30](https://github.com/iayti/CleanArchitecture/issues/30) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-4. 🗣 Commented on [#30](https://github.com/iayti/CleanArchitecture/issues/30) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
-5. 🎉 Merged PR [#31](https://github.com/iayti/CleanArchitecture/pull/31) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+1. 🎉 Merged PR [#36](https://github.com/iayti/CleanArchitecture/pull/36) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+2. 💪 Opened PR [#36](https://github.com/iayti/CleanArchitecture/pull/36) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+3. 🗣 Commented on [#35](https://github.com/iayti/CleanArchitecture/issues/35) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+4. ❗️ Closed issue [#30](https://github.com/iayti/CleanArchitecture/issues/30) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
+5. 🗣 Commented on [#30](https://github.com/iayti/CleanArchitecture/issues/30) in [iayti/CleanArchitecture](https://github.com/iayti/CleanArchitecture)
 <!--END_SECTION:activity-->
 
 ---
