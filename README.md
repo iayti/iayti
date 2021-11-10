@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Father and Developer
 
-* 🔭 I’m currently working on a [.NET 5 Clean Architecture Solution Template][clean]!
+* 🔭 I’m currently working on a [ASP.Net Core 6 Clean Architecture Solution Template][clean]!
 * 🌱 I can put learning first among my interests. Because of my curiosity, I add new research topics before I finish. Therefore the list goes on and on.
   * 📡 I am eager to try dapr in production level.
       * 🌕 Service to Service Invocation (HTTP/gRPC)
