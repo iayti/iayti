@@ -20,7 +20,7 @@
   * ⚽ Kali Linux (I want to learn cyber security and try hack myself)
   * 🎯 Networking (Cisco CCNA maybe after CCNP I dont care the certificates, i just want to learn. 😃)
   
-* 🥅 2021 Goals: Contribute more to Open Source projects
+* 🥅 2022 Goals: Contribute more to Open Source projects
 
 ![Visitors since 08 Mar 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=iayti&repo=iayti&countColor=%237B1E7A)
 
