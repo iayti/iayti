@@ -91,7 +91,7 @@
 ---
 
 ### Github Stats
-<img align="left" alt="iayti's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iayti&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="iayti's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=iayti&show_icons=true&hide_border=true&theme=radical" />
 
 
 [clean]: https://github.com/iayti/CleanArchitecture
