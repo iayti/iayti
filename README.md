@@ -4,23 +4,40 @@
 
 [![Website](https://img.shields.io/website?label=blog.ilkerayti.com&style=for-the-badge&url=https%3A%2F%2Filkerayti.com)](https://blog.ilkerayti.com)
 
-## I'm a Husband, Father and Developer
+## I'm a Husband, Father and Software Architect
 
-* 🔭 I’m currently working on a [ASP.Net Core 6 Clean Architecture Solution Template][clean]!
-* 🌱 I can put learning first among my interests. Because of my curiosity, I add new research topics before I finish. Therefore the list goes on and on.
-  * 📡 I am eager to try dapr in production level.
-      * 🌕 Service to Service Invocation (HTTP/gRPC)
-      * 🌖 State Management (RDBMS / NOSQL)
-      * 🌗 Publish and Subscribe(Azure Service Bus, AWS SQS/SNS - Kinesis, Apache Kafka, RabbitMQ, Redis)
-      * 🌘 Input and Output Bindings triggering application and invoking external resources
-      * 🌑 [Actors][actor] : Virtual Actor Pattern implementation for concurrency and better scalability
-      * 🌒 Observability distributed tracing using Zipkin API and Open Telemetry Collector 
-      * 🌓 Secrets Management Azure Key Vault/AWS Secret Manager or Dapr secrets API
-  * 🏆 Scalable distributed applications, Event Sourcing , CQRS, Event Driven Architecture  
-  * ⚽ Kali Linux (I want to learn cyber security and try hack myself)
-  * 🎯 Networking (Cisco CCNA maybe after CCNP I dont care the certificates, i just want to learn. 😃)
-  
-* 🥅 2022 Goals: Contribute more to Open Source projects
+* 🔭 I'm currently working on [.NET 9 Clean Architecture][clean] and AI-powered enterprise solutions!
+* 🤖 Building intelligent applications with:
+  * 🧠 **Large Language Models (LLMs)** - OpenAI GPT-4, Claude, Llama 3, Mistral
+  * 🎯 **RAG (Retrieval-Augmented Generation)** - Semantic search, vector databases (Pinecone, Qdrant, Weaviate)
+  * 🔗 **LangChain & Semantic Kernel** - Agent-based AI workflows and orchestration
+  * 💬 **Conversational AI** - Chatbots, virtual assistants, and intelligent automation
+  * 🖼️ **Computer Vision & ML** - YOLO, TensorFlow, PyTorch for image/video analysis
+  * 📊 **AI Model Integration** - Hugging Face, Azure AI, AWS Bedrock, Google Vertex AI
+
+* 🌱 Current Focus Areas:
+  * 🚀 **Cloud-Native & Microservices**
+      * 🌐 Dapr (Distributed Application Runtime) in production
+      * 🔄 Service Mesh (Istio, Linkerd) for advanced traffic management
+      * 📡 gRPC & HTTP/3 for high-performance communication
+      * 🎭 Event-Driven Architecture with Kafka, Azure Event Hubs, RabbitMQ
+      * 📦 CQRS, Event Sourcing, and Domain-Driven Design (DDD)
+  * ☁️ **Modern Cloud Platforms**
+      * ☁️ Multi-cloud strategies (Azure, AWS, GCP)
+      * ⚡ Serverless computing (Azure Functions, AWS Lambda)
+      * 📊 Observability (OpenTelemetry, Prometheus, Grafana, Jaeger)
+  * 🛡️ **DevSecOps & Platform Engineering**
+      * 🔐 Zero Trust security architecture
+      * 🔒 Supply chain security (SBOM, SLSA, Sigstore)
+      * 🤖 GitOps with ArgoCD, FluxCD
+      * 📈 Infrastructure as Code (Terraform, Pulumi, Bicep)
+  * 🎯 **AI/ML Engineering**
+      * 🏗️ MLOps pipelines and model deployment
+      * 🔍 Prompt engineering and fine-tuning strategies
+      * 🧪 A/B testing for AI models
+      * 📚 Knowledge graphs and semantic web technologies
+
+* 🥅 2026 Goals: Build open-source AI tools and contribute to the developer community
 
 ![Visitors since 08 Mar 2021](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=iayti&repo=iayti&countColor=%237B1E7A)
 
@@ -36,26 +53,51 @@
 
 <br />
 
-### Languages and Tools:
+### Technologies & Tools:
 
+**Backend & Languages:**
 [<img align="left" alt=".Net Platform" width="26px" src="https://avatars2.githubusercontent.com/u/9141961?s=200&v=4" />][.net]
-[<img align="left" alt="CSharp Platform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][csharp]
-[<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][graphQL]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
-[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
+[<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />][csharp]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][python]
+[<img align="left" alt="Go" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />][golang]
+[<img align="left" alt="Rust" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" />][rust]
+
+<br />
+
+**AI & ML:**
+[<img align="left" alt="OpenAI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/openai.svg" />][openai]
+[<img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" />][tensorflow]
+[<img align="left" alt="PyTorch" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />][pytorch]
+[<img align="left" alt="Hugging Face" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/huggingface.svg" />][huggingface]
+
+<br />
+
+**Cloud & DevOps:**
 [<img align="left" alt="Azure" width="26px" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" />][azure]
-[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />][docker]
+[<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />][aws]
+[<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />][docker]
 [<img align="left" alt="Kubernetes" width="26px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" />][kubernetes]
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" />][python]
+[<img align="left" alt="Terraform" width="26px" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" />][terraform]
+[<img align="left" alt="GitHub Actions" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/githubactions.svg" />][actions]
+
+<br />
+
+**Databases & Messaging:**
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />][postgresql]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />][mongodb]
+[<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" />][redis]
+[<img align="left" alt="Kafka" width="26px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" />][kafka]
 [<img align="left" alt="RabbitMQ" width="26px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" />][rabbit]
-[<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />][redis]
-[<img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" />][xamarin]
+
+<br />
+
+**Development Tools:**
+[<img align="left" alt="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/visualstudio.svg" />][vs]
+[<img align="left" alt="VS Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />][vscode]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />][git]
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/github.svg" />][github]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />][graphQL]
+[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][linux]
 
 <br />
 <br />
@@ -85,22 +127,30 @@
 [nuget]: https://www.nuget.org/profiles/ilkerayti
 [twitter]: https://twitter.com/ilkerayti
 [vs]: https://visualstudio.microsoft.com/
-[.net]: https://github.com/dotnet
-[github]: https://github.com/iayti/iayti
+[vscode]: https://code.visualstudio.com/
+[.net]: https://dotnet.microsoft.com/
+[github]: https://github.com/iayti
 [graphQL]: https://graphql.org/
-[sql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads
+[sql]: https://www.microsoft.com/sql-server
 [mongodb]: https://www.mongodb.com
+[postgresql]: https://www.postgresql.org/
 [git]: https://git-scm.com
 [terminal]: https://github.com/microsoft/terminal
 [aws]: https://aws.amazon.com
 [azure]: https://azure.microsoft.com
-[csharp]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[csharp]: https://learn.microsoft.com/dotnet/csharp/
 [docker]: https://www.docker.com/
 [kubernetes]: https://kubernetes.io/
-[linux]: https://ubuntu.com/wsl
+[linux]: https://www.linux.org/
 [python]: https://www.python.org/
+[golang]: https://go.dev/
+[rust]: https://www.rust-lang.org/
 [rabbit]: https://www.rabbitmq.com/
 [redis]: https://redis.io/
-[xamarin]: https://dotnet.microsoft.com/apps/xamarin
-
-[actor]: https://docs.dapr.io/developing-applications/building-blocks/actors/actors-overview/
+[kafka]: https://kafka.apache.org/
+[terraform]: https://www.terraform.io/
+[actions]: https://github.com/features/actions
+[openai]: https://openai.com/
+[tensorflow]: https://www.tensorflow.org/
+[pytorch]: https://pytorch.org/
+[huggingface]: https://huggingface.co/
